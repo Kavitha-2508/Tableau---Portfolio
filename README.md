@@ -1,12 +1,18 @@
-# Tableau---Portfolio
-Tableau dashboard analyzing British Airways customer reviews by service categories, aircraft types, and regions.
+# Tableau Portfolio - British Airways Dashboard
 
-This project showcases an interactive Tableau dashboard built using British Airways customer review data. The dashboard provides insights into average ratings for various service categories such as cabin staff, entertainment, ground service, and food. It allows users to filter reviews by date, traveller type, seat class, aircraft model, and continent.
+## Project Overview:
+This dashboard visualizes customer reviews for British Airways based on various service attributes like:
+- Service Ratings (Cabin, Food, Ground, etc.)
+- Aircraft Types
+- Travel Class
+- Regional Performance
 
-Key features:
+## Tools Used:
+- Tableau
+- Excel (for data cleaning)
 
-Time series analysis of ground service ratings over time
+## Key Insights:
+- Identified trends in passenger satisfaction by cabin class
+- Highlighted top-performing aircraft in terms of service ratings
 
-Geographic distribution of service reviews by country
-
-Comparison of aircraft models based on review volume and service rating
+- ![Dashboard_British Airways](https://github.com/user-attachments/assets/6a5814eb-c0de-4aa1-96a8-04986d59787c)
